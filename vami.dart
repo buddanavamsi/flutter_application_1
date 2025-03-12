@@ -7,4 +7,6 @@ void  main(){
    print(d);
    int f=a-b;
    print(f);
+   print(d);
+   print(c);
 }
