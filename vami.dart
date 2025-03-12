@@ -5,4 +5,6 @@ void  main(){
    print(c);
    int d =a*b;
    print(d);
+   int f=a-b;
+   print(f);
 }
