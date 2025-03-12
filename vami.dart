@@ -3,4 +3,6 @@ void  main(){
   int b=20;
   int c=a+b;
    print(c);
+   int d =a*b;
+   print(d);
 }
